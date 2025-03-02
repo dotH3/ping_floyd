@@ -9,13 +9,13 @@ Me gustaría inmortalizar este proyecto en internet para que cualquier boludo pu
 
 ![floyd](<imagenes/WhatsApp Image 2025-03-02 at 14.39.16.jpeg>)
 
-<video controls src="https://github.com/dotH3/ping_floyd/raw/refs/heads/main/imagenes/WhatsApp%20Video%202025-03-02%20at%2014.39.23.mp4" title="gameplay"></video>
+<video controls src="imagenes/gameplay.mp4" title="gameplay"></video>
 <3
 
-<video controls src="imagenes/WhatsApp Video 2025-03-02 at 14.38.54.mp4" title="beta testing"></video>
+<video controls src="imagenes/gato.mp4" title="beta testing"></video>
 Tres boludos haciendo beta testing
 
-<video controls src="imagenes/WhatsApp Video 2025-03-02 at 14.38.14.mp4" title="Inicios"></video>
+<video controls src="imagenes/render.mp4" title="Inicios"></video>
 Así empezamos, renderizando algo en pantalla.
 
 ![pepe](<imagenes/WhatsApp Image 2025-03-02 at 14.39.18.jpeg>)
