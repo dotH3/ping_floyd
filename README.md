@@ -9,13 +9,13 @@ Me gustaría inmortalizar este proyecto en internet para que cualquier boludo pu
 
 ![floyd](<imagenes/WhatsApp Image 2025-03-02 at 14.39.16.jpeg>)
 
-<video controls src="imagenes/gameplay.mp4" title="gameplay"></video>
+(imagenes/gameplay.mp4)
 <3
 
-<video controls src="imagenes/gato.mp4" title="beta testing"></video>
+(imagenes/gato.mp4)
 Tres boludos haciendo beta testing
 
-<video controls src="imagenes/render.mp4" title="Inicios"></video>
+(imagenes/render.mp4)
 Así empezamos, renderizando algo en pantalla.
 
 ![pepe](<imagenes/WhatsApp Image 2025-03-02 at 14.39.18.jpeg>)
